@@ -12,7 +12,7 @@ elif choice == "3":
 elif choice == "4":
     print("This is an alley where all the bad people hang out")
     print("Type 5 to have another chance")
-    choice=input("what would you like to do now")
+    choice=input("what would you like to do now: ")
     if choice == 5:
         print("Now you will have a turning point") 
 elif choice == "5":
